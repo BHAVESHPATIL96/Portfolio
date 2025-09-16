@@ -4,7 +4,7 @@ const Resume = () => {
   return (
     <>
       <a
-        href="/Bhavesh_Patil_DS1 (2).pdf" // Place the PDF inside your public folder
+        href="/Bhavesh_Patil_DS1.pdf" // Place the PDF inside your public folder
         download="Bhavesh_Patil_Resume.pdf"
         className="fixed bottom-8 right-8 bg-blue-600 text-white px-6 py-3 rounded-full shadow-lg hover:bg-blue-700 transition-colors z-50 flex items-center gap-2"
       >
